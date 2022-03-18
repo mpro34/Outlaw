@@ -1,0 +1,10 @@
+# Outlaw 
+### A UE4 3rd person boss-fight only game.
+
+You are an Outlaw on a foreign planet and have entered a tournament of champions.
+Start the game by spending various skill points and equiping a weapon. 
+Your choices at this stage will determine your fighting style.
+
+Enter a portal to fight various bosses and see how far you can get.
+
+Feel will be dark souls-like in that you are able to roll and boss hits will be punishing.
